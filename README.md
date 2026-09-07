@@ -48,8 +48,5 @@ The goal is to empower Karnataka’s smallholder farmers with timely and context
 -   APIs & Services: Twilio (SMS & Voice Calls), Weather API, Market Price API
 
 ---
-alt="screencapture-localhost-3000-Community-2025-09-15-22_39_25" src="https://github.com/user-attachments/assets/f8d90d3a-6585-4646-b7e3-6e432465c4ad" />
-
-
 ---
 
