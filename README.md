@@ -1,8 +1,8 @@
 # 🌱 KRISHIKAN – Evidence-Aware Farm Decision Intelligence System
 
-_A Smart India Hackathon (SIH) 2025 Project_
 
-KRISHIKAN is an AI-powered digital companion for Karnataka farmers, developed by **Team EcoTech** as part of the Smart India Hackathon (SIH) 2025. It provides evidence-aware advice, crop recommendations, fertilizer suggestions, disease detection, and real-time alerts through a unified decision dashboard.
+
+KRISHIKAN is an AI-powered digital companion for Karnataka farmers, developed by **Team Xypher** . It provides evidence-aware advice, crop recommendations, fertilizer suggestions, disease detection, and real-time alerts through a unified decision dashboard.
 
 The goal is to empower Karnataka’s smallholder farmers with timely and contextual support in their local language, helping them make better farming decisions.
 
@@ -27,9 +27,6 @@ The goal is to empower Karnataka’s smallholder farmers with timely and context
 - Fertilizer Suggestion Model: Recommends fertilizers best suited for the soil and crop stage.
 - Disease Detection Model: Farmers can upload plant images, and the AI will predict the disease and suggest remedies.
 
-### ⏰ Reminders & Alerts (Twilio Integration)
-- SMS Notifications for crop care, scheme deadlines, and market price changes.
-- Voice Calls for urgent weather warnings, ensuring accessibility for farmers without smartphones.
 
 ### 📚 Knowledge Engine & Resources
 - Government Schemes: Information on subsidies and support programs.
